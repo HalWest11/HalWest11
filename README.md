@@ -8,8 +8,8 @@ Product Analyst exploring CS fundamentals and building digital tools.
 - 💼 Product Analyst at Aberdeen Adviser
 
 ### Tech & Tools
-- **Languages:** C, Python, JavaScript/HTML/CSS
-- **Frameworks/Tools:** Bolt, VS Code, n8n, Figma
+- **Languages:** Basics in C, Python, JavaScript/HTML/CSS - essentially, I vibe code.
+- **Frameworks/Tools:** Bolt, VS Code, n8n, Figma, Mobbin, Magic Patterns, Perplexity, Claude Code, Replit
 - **Learning:** Data structures, algorithms, full-stack development
 
 ### Interests
