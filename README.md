@@ -4,7 +4,8 @@ Product Analyst exploring CS fundamentals and building digital tools.
 
 ### Currently
 - 📚 Working through CS50 (C, Python, algorithms)
-- 🛠️ Building Latti — a mental models knowledge product
+- 🛠️ Built MVP of Latti — a mental models knowledge product
+- 🛠️ Building Connect4U — a platform enabling the quality over quantity of relationships
 - 💼 Product Analyst at Aberdeen Adviser
 
 ### Tech & Tools
