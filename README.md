@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hal West
 
-<!--
-**HalWest11/HalWest11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Analyst exploring CS fundamentals and building digital tools.
 
-Here are some ideas to get you started:
+### Currently
+- 📚 Working through CS50 (C, Python, algorithms)
+- 🛠️ Building Latti — a mental models knowledge product
+- 💼 Product Analyst at Aberdeen Adviser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech & Tools
+- **Languages:** C, Python, JavaScript/HTML/CSS
+- **Frameworks/Tools:** Bolt, VS Code, n8n, Figma
+- **Learning:** Data structures, algorithms, full-stack development
+
+### Interests
+Product strategy • Software development • AI/ML applications • Personal finance
+
+📍 Edinburgh • [bento.me/halwest12](https://bento.me/halwest12)
