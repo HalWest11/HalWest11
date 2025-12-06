@@ -13,6 +13,6 @@ Product Analyst exploring CS fundamentals and building digital tools.
 - **Learning:** Data structures, algorithms, full-stack development
 
 ### Interests
-Product strategy • Software development • AI/ML applications • Personal finance
+Product strategy • Software development • AI/ML applications • Financial markets • Geopolitics
 
 📍 Edinburgh • [bento.me/halwest12](https://bento.me/halwest12)
