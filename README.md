@@ -10,7 +10,7 @@ Product Analyst exploring CS fundamentals and building digital tools.
 
 ### Tech & Tools
 - **Languages:** Basics in C, Python, JavaScript/HTML/CSS - essentially, I vibe code.
-- **Frameworks/Tools:** Bolt, VS Code, n8n, Figma, Mobbin, Magic Patterns, Perplexity, Claude Code, Replit
+- **Frameworks/Tools:** Bolt, VS Code, n8n, Figma, Mobbin, Magic Patterns, Perplexity, Claude, Replit
 - **Learning:** Data structures, algorithms, full-stack development
 
 ### Interests
